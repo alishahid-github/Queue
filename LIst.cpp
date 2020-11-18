@@ -1,7 +1,7 @@
-//.cpp file to implement the Liked List class
+//.cpp file to implement the Linked List class
 
 #include<iostream>
-#include"List.h"
+#include"List.h"					//importing the Linked List header file
 using namespace std;
 
 List::List()
